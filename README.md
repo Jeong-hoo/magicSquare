@@ -1,3 +1,5 @@
 # magicSquare
+
 CSharp_Console
-#홀수마방진
+
+## 홀수마방진
